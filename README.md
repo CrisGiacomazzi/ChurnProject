@@ -1,6 +1,7 @@
 # ChurnProject
 
-Cristiane Mecca Giacomazzi (Data Analyst) n/
+Cristiane Mecca Giacomazzi (Data Analyst)
+
 This project was developed with Cross-industry standard process for data mining (CRISP-DM) methodology.
 The following topics will be presented:
 1. Business Understanding
