@@ -36,7 +36,7 @@ Initial data exploration: Python, using Google Collab.
 
 ## 3. Ethical Statements
 
-Ethical issues: This project complies with the TCPS 2. The dataset is in the public domain.
+This project complies with the TCPS 2. The dataset is in the public domain.
 
 ## 4. Data Preparation
 
