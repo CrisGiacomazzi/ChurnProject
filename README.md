@@ -1,4 +1,4 @@
-# ChurnProject
+# Exploratory Data Analysis - Churn Project
 
 Cristiane Mecca Giacomazzi (Data Analyst)
 
