@@ -2,12 +2,33 @@ Handle unbalanced Datasets
 
 Cristiane Mecca Giacomazzi (Data Analyst)
 The following topics will be presented:
-Problem Understanding
-Data Understanding
-Ethical Statements
-Dictionary
-Libraries used for this project
-Project plan
-Data Preprocessing
-Handle unbalanced dataset
-Interpretation
+1.Problem Understanding
+2.Data Understanding
+3.Ethical Statements
+4.Dictionary
+5.Libraries used for this project
+6.Project plan
+7.Data Preprocessing
+8.Handle unbalanced dataset
+9.Interpretation
+10.Conclusion
+
+1. Problem Understanding
+
+Consider a dataset where one label is more frequent than the other; in this case, the dataset is imbalanced. The predominant label in an imbalanced dataset is called the majority class, while the less frequent label is known as the minority class. For instance, in many real-world medical datasets, the number of patients with heart disease is significantly smaller than those without heart disease. Thus, heart disease represents a minority class in an imbalanced dataset.
+In the dataset used for this project, class 0 is the majority class (indicating no churn). This is expected because the focus is on churn, making churn the minority class. The performance of machine learning algorithms can be significantly affected by an imbalanced dataset. When trained on such a dataset, the model tends to learn mostly from the majority class, resulting in a biased model. Consequently, the cost of false negatives (failing to detect the minority class) becomes much higher than false positives (incorrectly identifying a sample as belonging to the minority class), compromising metrics such as accuracy.
+To address this issue, several techniques can be applied to manage imbalanced datasets. Methods such as Oversampling, Undersampling, and Synthetic Minority Oversampling Technique (SMOTE) can be employed. The objective of Part 2 of this project is to handle imbalanced datasets using a public bank dataset and to select the best approach for inclusion in my portfolio project.
+
+2. Data Understanding
+
+Data Source: This project used a dataset from the Kaggle Website called “Churn_modelling” (https://www.kaggle.com/datasets/shubh0799/churn-modelling/data), a structured dataset.
+Tool: Python, using Google Collab.
+
+3.Ethical Statements
+
+Ethical issues: This project complies with the TCPS 2. The dataset is in the public domain.
+Funding and conflict of interest: non-funded research, no conflict of interesting.
+
+4.Dictionary
+
+
