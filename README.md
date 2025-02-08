@@ -26,7 +26,7 @@ The following topics will be presented:
 * The importance of customer retention goes beyond loyalty; it's also cost-effective. Acquiring a new customer is five to 25 times more expensive than retaining an existing one (Gallo, 2014). Furthermore, Reichheld of Bain & Company (2021) found that increasing customer retention by just 5% can boost profits by 25% to 95%.
 * Danao and Watts (2024) suggest that for mature and established companies, the ideal annual churn rate is between 5% and 7%, with a monthly churn rate of less than 1%. Nonetheless, the churn depend on the field of company. A 1% churn rate can represent millions of dollars in loss, hence it is necessary to understand the impact of churn on the business you are involved with (Truta, 2018).
 * By actively monitoring churn rates, businesses can identify trends and areas for improvement, enabling them to implement targeted strategies to reduce customer loss and drive long-term success.
-* The purpose of Part 1 of the project is to conduct exploratory data analysis on a public bank dataset, providing insights to identify customers with a higher likelihood of churning.
+* The purpose of Part 1 of the project is to conduct exploratory data analysis on a public bank dataset, providing insights to **identify customers with a higher likelihood of churning**.
 
 ## 2. Data Understanding
 
