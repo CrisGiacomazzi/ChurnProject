@@ -27,6 +27,7 @@ The following topics will be presented:
 * Danao and Watts (2024) suggest that for mature and established companies, the ideal annual churn rate is between 5% and 7%, with a monthly churn rate of less than 1%. Nonetheless, the churn depend on the field of company. A 1% churn rate can represent millions of dollars in loss, hence it is necessary to understand the impact of churn on the business you are involved with (Truta, 2018).
 * By actively monitoring churn rates, businesses can identify trends and areas for improvement, enabling them to implement targeted strategies to reduce customer loss and drive long-term success.
 * The purpose of Part 1 of the project is to conduct exploratory data analysis on a public bank dataset, providing insights to **identify customers with a higher likelihood of churning**.
+* Also, Leveraged **SWOT analysis** to support data-driven decision-making and communicated the **call-to-action graphically** for stakeholders.
 
 ## 2. Data Understanding
 
